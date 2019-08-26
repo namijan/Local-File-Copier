@@ -1,0 +1,10 @@
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Local File Copier.exe.config
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Local File Copier.exe
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Local File Copier.pdb
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Local File Copier.exe
+C:\Users\ranjann\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Local File Copier.pdb
